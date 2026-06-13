@@ -110,13 +110,9 @@ Computer vision project capable of identifying face shapes from images to provid
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/AbhiramJayaraj/AbhiramJayaraj/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhiramJayaraj/AbhiramJayaraj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 📫 Connect With Me
 
